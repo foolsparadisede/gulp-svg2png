@@ -1,4 +1,3 @@
-/// <reference types="node" />
 export default class Helper {
     /**
      * Checks if a given buffer is valid data from a PNG.
